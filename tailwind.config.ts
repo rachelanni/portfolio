@@ -1,0 +1,17 @@
+import type { Config } from 'tailwindcss';
+import { font } from '@/lib/fonts';
+const config: Config = {
+    content: [
+        './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
+        './src/components/**/*.{js,ts,jsx,tsx,mdx}',
+        './src/app/**/*.{js,ts,jsx,tsx,mdx}',
+    ],
+    darkMode: 'class',
+    plugins: [],
+    theme: {
+        fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+        },
+    },
+}
+export default config;
