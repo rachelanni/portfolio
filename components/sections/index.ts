@@ -1,0 +1,15 @@
+export { AboutSection } from './AboutSection';
+export { AchievementsSection } from './AchievementsSection';
+export { BlogSection } from './BlogSection';
+export { CertificationsSection } from './CertificationsSection';
+export { ContactForm } from './ContactForm';
+export { ContactSection } from './ContactSection';
+export { EducationSection } from './EducationSection';
+export { ExperienceSection } from './ExperienceSection';
+export { HeroSection } from './HeroSection';
+export { ProfileImage } from './ProfileImage';
+export { ProjectsSection } from './ProjectsSection';
+export { ServicesSection } from './ServicesSection';
+export { SkillsChart } from './SkillsChart';
+export { SkillsSection } from './SkillsSection';
+export { TestimonialsSection } from './TestimonialsSection';
